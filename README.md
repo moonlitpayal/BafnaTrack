@@ -32,14 +32,16 @@
 *A high-level dashboard for data aggregation and strategic decision making.*
 
 #### 📊 Master Operations Dashboard
-*Visualizes Total Asset Value (TAV), Sales Velocity, and Inventory Health across all sites in real-time.*
-<img width="100%" alt="Executive Dashboard" src="PASTE_DESKTOP_DASHBOARD_URL_HERE">
+*Visualizes Total Asset Value (TAV), Sales Velocity, and Inventory Health across all sites in real-time with opened hamburger menu.*
+<img width="1916" height="1078" alt="Screenshot 2025-12-17 012011" src="https://github.com/user-attachments/assets/2e7923e2-02ac-4a6e-a188-7e78f6695252" />
+
 
 <br>
 
 #### 🎛️ The Admin Control Panel
 *The central configuration hub. This is where Admins execute "God-Level" commands: Creating new projects, running the Bulk-Generation algorithm, and managing Archives.*
-<img width="100%" alt="Admin Control Panel" src="PASTE_DESKTOP_ADMIN_URL_HERE">
+<img width="1915" height="1075" alt="Screenshot 2025-12-17 011903" src="https://github.com/user-attachments/assets/dd328903-3d8c-4f3f-99ed-0e66fa42c9b5" />
+
 
 ---
 
