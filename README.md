@@ -16,23 +16,23 @@
 ### 📱 Mobile Field Unit
 *Engineered for Sales Agents to execute complex financial modeling on-site.*
 
-#### 1. Overview & Navigation
-*Real-time project tracking and administrative control.*
+#### 1. General Interface & Lifecycle
+*Navigation, Administration, and Project History.*
 
-| **A. Operations Dashboard** | **B. Admin & Settings** |
+| **A. Operations Dashboard** | **B. Admin & Settings** | **C. The Archives** |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/bd7d63b5-a3d1-4b95-8422-dee6cf45ba11" width="250" alt="Operations Dashboard"> | <img src="https://github.com/user-attachments/assets/f4a29c82-21c3-4518-ad00-b523a051566e" width="250" alt="Admin Settings"> |
-| *Global Stats & Projects* | *Admin Management Space* |
+| <img src="https://github.com/user-attachments/assets/bd7d63b5-a3d1-4b95-8422-dee6cf45ba11" width="250" alt="Operations Dashboard"> | <img src="https://github.com/user-attachments/assets/f4a29c82-21c3-4518-ad00-b523a051566e" width="250" alt="Admin Settings"> | <img src="https://github.com/user-attachments/assets/680b769e-c8b3-438e-866e-674b7d12a24f" width="250" alt="Archives"> |
+| *Global Stats & Projects* | *Admin Management Space* | *Project History* |
 
 <br>
 
 #### 2. Unit Analytics (View Mode)
 *Comprehensive breakdown of unit details. (Showing full scroll view).*
 
-| **A. Unit Details (Top)** | **B. Unit Details (Bottom)** | **C. The Archives** |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/b664fa3c-a9e3-4b91-8f58-b17117f424f3" width="250" alt="Unit Details Top"> | <img src="https://github.com/user-attachments/assets/796633d4-4e46-4101-b834-65125154837f" width="250" alt="Unit Details Bottom"> | <img src="https://github.com/user-attachments/assets/680b769e-c8b3-438e-866e-674b7d12a24f" width="250" alt="Archives"> |
-| *Basic Info & Status* | *Financial Summary* | *Project History* |
+| **A. Unit Details (Top)** | **B. Unit Details (Bottom)** |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/b664fa3c-a9e3-4b91-8f58-b17117f424f3" width="250" alt="Unit Details Top"> | <img src="https://github.com/user-attachments/assets/796633d4-4e46-4101-b834-65125154837f" width="250" alt="Unit Details Bottom"> |
+| *Basic Info & Status* | *Financial Summary* |
 
 <br>
 
