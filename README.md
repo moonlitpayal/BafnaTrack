@@ -17,13 +17,11 @@
 *Engineered for Sales Agents to execute complex financial modeling on-site.*
 
 #### 1. Overview & Navigation
-*Real-time project tracking and inventory visualization.*
+*Real-time project tracking and administrative control.*
 
-| **A. Operations Dashboard** | **B. Admin Panel** |
+| **A. Operations Dashboard** | **B. Admin & Settings** |
 |:---:|:---:|:---:|
-| ![WhatsApp Image 2025-12-17 at 01 42 43_1d31bf70](https://github.com/user-attachments/assets/bd7d63b5-a3d1-4b95-8422-dee6cf45ba11)
- |![WhatsApp Image 2025-12-17 at 01 42 46_bbd3c071](https://github.com/user-attachments/assets/f4a29c82-21c3-4518-ad00-b523a051566e)
- |
+| <img src="https://github.com/user-attachments/assets/bd7d63b5-a3d1-4b95-8422-dee6cf45ba11" width="250" alt="Operations Dashboard"> | <img src="https://github.com/user-attachments/assets/f4a29c82-21c3-4518-ad00-b523a051566e" width="250" alt="Admin Settings"> |
 | *Global Stats & Projects* | *Admin Management Space* |
 
 <br>
@@ -33,11 +31,8 @@
 
 | **A. Unit Details (Top)** | **B. Unit Details (Bottom)** | **C. The Archives** |
 |:---:|:---:|:---:|
-| ![WhatsApp Image 2025-12-17 at 01 42 44_a49415c3](https://github.com/user-attachments/assets/b664fa3c-a9e3-4b91-8f58-b17117f424f3)
- | ![WhatsApp Image 2025-12-17 at 01 42 44_58e39509](https://github.com/user-attachments/assets/796633d4-4e46-4101-b834-65125154837f)
- | ![WhatsApp Image 2025-12-17 at 01 42 44_58e39509](https://github.com/user-attachments/assets/680b769e-c8b3-438e-866e-674b7d12a24f)
- |
-| *Basic Info & Status* | *Financial Summary* | *Archives * |
+| <img src="https://github.com/user-attachments/assets/b664fa3c-a9e3-4b91-8f58-b17117f424f3" width="250" alt="Unit Details Top"> | <img src="https://github.com/user-attachments/assets/796633d4-4e46-4101-b834-65125154837f" width="250" alt="Unit Details Bottom"> | <img src="https://github.com/user-attachments/assets/680b769e-c8b3-438e-866e-674b7d12a24f" width="250" alt="Archives"> |
+| *Basic Info & Status* | *Financial Summary* | *Project History* |
 
 <br>
 
@@ -46,10 +41,7 @@
 
 | **A. Configuration (Top)** | **B. Financial Math (Mid)** | **C. Finalization (End)** |
 |:---:|:---:|:---:|
-| ![WhatsApp Image 2025-12-17 at 01 42 44_58877925](https://github.com/user-attachments/assets/a6070121-2713-4969-85f4-e476ec561a27)
- | ![WhatsApp Image 2025-12-17 at 01 42 45_13fe81a2](https://github.com/user-attachments/assets/cb280813-9a09-482a-99cb-0253f93f9f7b)
- | ![WhatsApp Image 2025-12-17 at 01 42 45_5f154cde](https://github.com/user-attachments/assets/6df28312-fdf5-4f13-bfae-ec4efca47470)
- |
+| <img src="https://github.com/user-attachments/assets/a6070121-2713-4969-85f4-e476ec561a27" width="250" alt="Edit Config"> | <img src="https://github.com/user-attachments/assets/cb280813-9a09-482a-99cb-0253f93f9f7b" width="250" alt="Edit Finance"> | <img src="https://github.com/user-attachments/assets/6df28312-fdf5-4f13-bfae-ec4efca47470" width="250" alt="Edit Save"> |
 | *Pricing & Parking Logic* | *Loan & Bank Due Logic* | *Notes & Uploads* |
 
 <br>
@@ -58,7 +50,7 @@
 *A high-level dashboard for data aggregation and strategic decision making.*
 
 #### 📊 Master Operations Dashboard
-*Visualizes Total Asset Value (TAV), Sales Velocity, and Inventory Health across all sites in real-time.*
+*Visualizes Total Asset Value (TAV), Sales Velocity, and Inventory Health across all sites in real-time with opened hamburger menu.*
 <img width="100%" alt="Master Operations Dashboard" src="https://github.com/user-attachments/assets/2e7923e2-02ac-4a6e-a188-7e78f6695252">
 
 <br>
