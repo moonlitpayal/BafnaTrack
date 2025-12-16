@@ -19,20 +19,25 @@
 #### 1. Overview & Navigation
 *Real-time project tracking and inventory visualization.*
 
-| **A. Operations Dashboard** | **B. Live Inventory Grid** | **C. The Archives** |
+| **A. Operations Dashboard** | **B. Admin Panel** |
 |:---:|:---:|:---:|
-| <img src="PASTE_MOBILE_DASHBOARD_URL_HERE" width="250" alt="Operations Dashboard"> | <img src="PASTE_MOBILE_GRID_URL_HERE" width="250" alt="Inventory Grid"> | <img src="PASTE_MOBILE_ARCHIVE_URL_HERE" width="250" alt="Archives"> |
-| *Global Stats & Projects* | *Color-Coded Status* | *Lifecycle Management* |
+| ![WhatsApp Image 2025-12-17 at 01 42 43_1d31bf70](https://github.com/user-attachments/assets/bd7d63b5-a3d1-4b95-8422-dee6cf45ba11)
+ |![WhatsApp Image 2025-12-17 at 01 42 46_bbd3c071](https://github.com/user-attachments/assets/f4a29c82-21c3-4518-ad00-b523a051566e)
+ |
+| *Global Stats & Projects* | *Admin Management Space* |
 
 <br>
 
 #### 2. Unit Analytics (View Mode)
 *Comprehensive breakdown of unit details. (Showing full scroll view).*
 
-| **A. Unit Details (Top)** | **B. Unit Details (Bottom)** | **C. Admin Settings** |
+| **A. Unit Details (Top)** | **B. Unit Details (Bottom)** | **C. The Archives** |
 |:---:|:---:|:---:|
-| <img src="PASTE_FLAT_VIEW_1_URL_HERE" width="250" alt="Flat View Top"> | <img src="PASTE_FLAT_VIEW_2_URL_HERE" width="250" alt="Flat View Bottom"> | <img src="PASTE_MOBILE_SETTINGS_URL_HERE" width="250" alt="Admin Settings"> |
-| *Basic Info & Status* | *Financial Summary* | *App Configuration* |
+| ![WhatsApp Image 2025-12-17 at 01 42 44_a49415c3](https://github.com/user-attachments/assets/b664fa3c-a9e3-4b91-8f58-b17117f424f3)
+ | ![WhatsApp Image 2025-12-17 at 01 42 44_58e39509](https://github.com/user-attachments/assets/796633d4-4e46-4101-b834-65125154837f)
+ | ![WhatsApp Image 2025-12-17 at 01 42 44_58e39509](https://github.com/user-attachments/assets/680b769e-c8b3-438e-866e-674b7d12a24f)
+ |
+| *Basic Info & Status* | *Financial Summary* | *Archives * |
 
 <br>
 
@@ -41,7 +46,10 @@
 
 | **A. Configuration (Top)** | **B. Financial Math (Mid)** | **C. Finalization (End)** |
 |:---:|:---:|:---:|
-| <img src="PASTE_FLAT_EDIT_1_URL_HERE" width="250" alt="Edit Config"> | <img src="PASTE_FLAT_EDIT_2_URL_HERE" width="250" alt="Edit Finance"> | <img src="PASTE_FLAT_EDIT_3_URL_HERE" width="250" alt="Edit Save"> |
+| ![WhatsApp Image 2025-12-17 at 01 42 44_58877925](https://github.com/user-attachments/assets/a6070121-2713-4969-85f4-e476ec561a27)
+ | ![WhatsApp Image 2025-12-17 at 01 42 45_13fe81a2](https://github.com/user-attachments/assets/cb280813-9a09-482a-99cb-0253f93f9f7b)
+ | ![WhatsApp Image 2025-12-17 at 01 42 45_5f154cde](https://github.com/user-attachments/assets/6df28312-fdf5-4f13-bfae-ec4efca47470)
+ |
 | *Pricing & Parking Logic* | *Loan & Bank Due Logic* | *Notes & Uploads* |
 
 <br>
