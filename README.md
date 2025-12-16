@@ -16,15 +16,33 @@
 ### 📱 Mobile Field Unit
 *Engineered for Sales Agents to execute complex financial modeling on-site.*
 
-| **1. Live Inventory Matrix** | **2. Financial Compute Engine** | **3. Unit Configuration** |
-|:---:|:---:|:---:|
-| <img src="PASTE_MOBILE_DASHBOARD_URL_HERE" width="250" alt="Inventory Matrix"> | <img src="PASTE_MOBILE_FINANCE_URL_HERE" width="250" alt="Financial Engine"> | <img src="PASTE_MOBILE_EDIT_URL_HERE" width="250" alt="Unit Config"> |
-| *Real-time status visualization* | *Auto-amortization logic* | *Granular data control* |
+#### 1. Overview & Navigation
+*Real-time project tracking and inventory visualization.*
 
-| **4. Detailed Unit Analytics** | **5. Archives & History** | **6. Quick Actions** |
+| **A. Operations Dashboard** | **B. Live Inventory Grid** | **C. The Archives** |
 |:---:|:---:|:---:|
-| <img src="PASTE_MOBILE_DETAILS_URL_HERE" width="250" alt="Unit Analytics"> | <img src="PASTE_MOBILE_ARCHIVE_URL_HERE" width="250" alt="Archives"> | <img src="PASTE_MOBILE_GRID_URL_HERE" width="250" alt="Quick Actions"> |
-| *Comprehensive data view* | *Project lifecycle management* | *Rapid status updates* |
+| <img src="PASTE_MOBILE_DASHBOARD_URL_HERE" width="250" alt="Operations Dashboard"> | <img src="PASTE_MOBILE_GRID_URL_HERE" width="250" alt="Inventory Grid"> | <img src="PASTE_MOBILE_ARCHIVE_URL_HERE" width="250" alt="Archives"> |
+| *Global Stats & Projects* | *Color-Coded Status* | *Lifecycle Management* |
+
+<br>
+
+#### 2. Unit Analytics (View Mode)
+*Comprehensive breakdown of unit details. (Showing full scroll view).*
+
+| **A. Unit Details (Top)** | **B. Unit Details (Bottom)** | **C. Admin Settings** |
+|:---:|:---:|:---:|
+| <img src="PASTE_FLAT_VIEW_1_URL_HERE" width="250" alt="Flat View Top"> | <img src="PASTE_FLAT_VIEW_2_URL_HERE" width="250" alt="Flat View Bottom"> | <img src="PASTE_MOBILE_SETTINGS_URL_HERE" width="250" alt="Admin Settings"> |
+| *Basic Info & Status* | *Financial Summary* | *App Configuration* |
+
+<br>
+
+#### 3. The Financial Logic Engine (Edit Mode)
+*The complex form where financial logic, loans, and calculations happen.*
+
+| **A. Configuration (Top)** | **B. Financial Math (Mid)** | **C. Finalization (End)** |
+|:---:|:---:|:---:|
+| <img src="PASTE_FLAT_EDIT_1_URL_HERE" width="250" alt="Edit Config"> | <img src="PASTE_FLAT_EDIT_2_URL_HERE" width="250" alt="Edit Finance"> | <img src="PASTE_FLAT_EDIT_3_URL_HERE" width="250" alt="Edit Save"> |
+| *Pricing & Parking Logic* | *Loan & Bank Due Logic* | *Notes & Uploads* |
 
 <br>
 
@@ -32,16 +50,14 @@
 *A high-level dashboard for data aggregation and strategic decision making.*
 
 #### 📊 Master Operations Dashboard
-*Visualizes Total Asset Value (TAV), Sales Velocity, and Inventory Health across all sites in real-time with opened hamburger menu.*
-<img width="1916" height="1078" alt="Screenshot 2025-12-17 012011" src="https://github.com/user-attachments/assets/2e7923e2-02ac-4a6e-a188-7e78f6695252" />
-
+*Visualizes Total Asset Value (TAV), Sales Velocity, and Inventory Health across all sites in real-time.*
+<img width="100%" alt="Master Operations Dashboard" src="https://github.com/user-attachments/assets/2e7923e2-02ac-4a6e-a188-7e78f6695252">
 
 <br>
 
 #### 🎛️ The Admin Control Panel
 *The central configuration hub. This is where Admins execute "God-Level" commands: Creating new projects, running the Bulk-Generation algorithm, and managing Archives.*
-<img width="1915" height="1075" alt="Screenshot 2025-12-17 011903" src="https://github.com/user-attachments/assets/dd328903-3d8c-4f3f-99ed-0e66fa42c9b5" />
-
+<img width="100%" alt="Admin Control Panel" src="https://github.com/user-attachments/assets/dd328903-3d8c-4f3f-99ed-0e66fa42c9b5">
 
 ---
 
