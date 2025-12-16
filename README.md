@@ -21,7 +21,7 @@
 
 | **A. Operations Dashboard** | **B. Admin & Settings** | **C. The Archives** |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/bd7d63b5-a3d1-4b95-8422-dee6cf45ba11" width="250" alt="Operations Dashboard"> | <img src="https://github.com/user-attachments/assets/f4a29c82-21c3-4518-ad00-b523a051566e" width="250" alt="Admin Settings"> | <img src="https://github.com/user-attachments/assets/680b769e-c8b3-438e-866e-674b7d12a24f" width="250" alt="Archives"> |
+| <img src="https://github.com/user-attachments/assets/bd7d63b5-a3d1-4b95-8422-dee6cf45ba11" width="250" alt="Operations Dashboard"> | <img src="https://github.com/user-attachments/assets/f4a29c82-21c3-4518-ad00-b523a051566e" width="250" alt="Admin Settings"> | <img src="https://github.com/user-attachments/assets/88c63696-40b5-406d-8814-517a8e2cf4a3" width="250" alt="Archives"> |
 | *Global Stats & Projects* | *Admin Management Space* | *Project History* |
 
 <br>
