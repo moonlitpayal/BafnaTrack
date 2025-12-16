@@ -32,14 +32,14 @@
 *A high-level dashboard for data aggregation and strategic decision making.*
 
 #### 📊 Master Operations Dashboard
-*Visualizes Total Asset Value (TAV), Sales Velocity, and Inventory Health across all sites.*
+*Visualizes Total Asset Value (TAV), Sales Velocity, and Inventory Health across all sites in real-time.*
 <img width="100%" alt="Executive Dashboard" src="PASTE_DESKTOP_DASHBOARD_URL_HERE">
 
 <br>
 
-#### 🗂️ Centralized Asset Ledger
-*Manages architectural schematics and legal documentation with relational project linking.*
-<img width="100%" alt="Asset Ledger" src="PASTE_DESKTOP_DOCS_URL_HERE">
+#### 🎛️ The Admin Control Panel
+*The central configuration hub. This is where Admins execute "God-Level" commands: Creating new projects, running the Bulk-Generation algorithm, and managing Archives.*
+<img width="100%" alt="Admin Control Panel" src="PASTE_DESKTOP_ADMIN_URL_HERE">
 
 ---
 
