@@ -32,7 +32,7 @@
 | **A. Unit Details (Top)** | **B. Unit Details (Bottom)** |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/b664fa3c-a9e3-4b91-8f58-b17117f424f3" width="250" alt="Unit Details Top"> | <img src="https://github.com/user-attachments/assets/796633d4-4e46-4101-b834-65125154837f" width="250" alt="Unit Details Bottom"> |
-| *Basic Info & Status* | *Financial Summary* |
+| *Basic Info & Status* | *Customer Details* |
 
 <br>
 
