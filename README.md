@@ -1,6 +1,6 @@
 # 🏗️ BafnaTrack: Enterprise ERP
 
-> **Engineered & Architected exclusively for DBafna Developers.**
+> **Engineered & Architected exclusively for DBafna Developer.**
 
 ![Flutter](https://img.shields.io/badge/Flutter-Architect-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
