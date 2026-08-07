@@ -7,7 +7,7 @@
 ![PostgreSQL](https://img.shields.io/badge/SQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![System](https://img.shields.io/badge/System-ERP_Core-FF5722?style=for-the-badge)
 
-**BafnaTrack** is a high-performance Real Estate ERP (Enterprise Resource Planning) system. It serves as the digital "Central Nervous System" for **DBafna Developers**, replacing fragmented spreadsheet workflows with a logic-driven, relational cloud ecosystem.
+**BafnaTrack** is a high-performance Real Estate ERP (Enterprise Resource Planning) system. It serves as the digital "Central Nervous System" for **DBafna Developers**, replacing fragmented spreadsheet workflows with a logic-driven, relational cloud ecosystem
 
 ---
 
